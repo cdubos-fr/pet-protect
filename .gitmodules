@@ -1,0 +1,12 @@
+[submodule "pet-protect-cli"]
+	path = pet-protect-cli
+	url = https://github.com/cdubos-fr/pet-protect-cli
+[submodule "pet-protect-infra"]
+	path = pet-protect-infra
+	url = https://github.com/cdubos-fr/pet-protect-infra
+[submodule "pet-protect-frontend"]
+	path = pet-protect-frontend
+	url = https://github.com/cdubos-fr/pet-protect-frontend
+[submodule "pet-protect-backend"]
+	path = pet-protect-backend
+	url = https://github.com/cdubos-fr/pet-protect-backend
